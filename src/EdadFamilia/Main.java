@@ -23,7 +23,7 @@ public class Main {
     public static void main(String[] args) {
 
         LocalDate father, mother, son, daughter, now;
-        father = LocalDate.of(1986, 1, 31);
+        father = LocalDate.of(1988, 1, 31);
         mother = LocalDate.of(1995, 12, 7);
         now=LocalDate.now();
         System.out.println("El papa nacio en : " + father);
